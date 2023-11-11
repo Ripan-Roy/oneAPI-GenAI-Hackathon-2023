@@ -16,7 +16,7 @@ To get started with the oneAPI-GenAI-Hackathon-2023 repository, follow these ste
 ### README.md must consist of the following information:
 
 #### Team Name - Andromeda
-#### Problem Statement - Empower legal professionals with cutting-edge Generative AI technology. Participants are tasked with fine tuning an innovative Legal Practice Platform powered by Large Language Models (LLM) tailored to meet the specific needs and challenges faced by legal professionals.![image](https://github.com/Ripan-Roy/oneAPI-GenAI-Hackathon-2023/assets/88824889/4d489102-6f73-46ae-90f7-6a879d22b0cd)
+#### Problem Statement - Empower legal professionals with cutting-edge Generative AI technology. Participants are tasked with fine tuning an innovative Legal Practice Platform powered by Large Language Models (LLM) tailored to meet the specific needs and challenges faced by legal professionals.
 
 #### Team Leader Email - ripanroy111@gmail.com
 
